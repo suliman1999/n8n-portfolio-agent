@@ -1,4 +1,3 @@
-```markdown
 # n8n Portfolio Agent
 
 A chat-based AI agent built with n8n that reads portfolio holdings from Google Sheets, fetches end-of-day prices from Marketstack, and estimates the portfolio's value. When asked, it proposes a position for diversification and saves the suggested ticker and share count to Google Sheets.
@@ -43,4 +42,3 @@ In this demo, suggestions are appended to the same sheet as the starting holding
 - OpenAI Chat Model
 - Google Sheets for reading holdings and appending rows
 - Marketstack for end-of-day prices
-```
