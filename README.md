@@ -12,7 +12,7 @@ A chat-based AI agent built with n8n that reads portfolio holdings from Google S
 
 ## Demo
 
-
+https://github.com/user-attachments/assets/870ed4af-394a-471a-b1b6-5aac8f01c9ca
 
 The demo starts with `AMZN` and `AAPL` in Google Sheets. The agent reads both positions and reports the portfolio value. On two separate chat requests, it appends `VTI` with 1 share and `BND` with 5 shares. Both rows appear in Google Sheets during the demo.
 
